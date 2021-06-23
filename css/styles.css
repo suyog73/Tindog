@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Mobile Specific Styles */
 
 @media (max-width:1000px) {
-  .op {
+  .iphone-image {
     position: static;
     transform: rotate(0);
     width: 350px;
